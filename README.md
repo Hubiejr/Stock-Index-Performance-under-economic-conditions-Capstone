@@ -10,6 +10,8 @@ This project touches on the stock market sectors, **tech**, **healthcare**, and 
 - **Jupyter Notebook** (IDE)
 - **POWERPOINT** (PRESENTATION)
 
+# MAIN Jupyter Notebook file
+## CleanVisualization.ipynb
 
 ## MAIN QUESTION:
 ## Which stock indexes (tech, healthcare, energy, etc.) perform best under certain economic conditions (inflation, recession, recovery, etc.) 
@@ -17,7 +19,6 @@ This project touches on the stock market sectors, **tech**, **healthcare**, and 
 
 ## Motivation
 For motivation, I love looking into the stock market and looking at and potentially predicting what may happen next. I haven't touched it in a while. I recently got back into it. I used to do a lot of option trades, but they got too risky, and you usually make some good money, but the problem is you might lose your stock. Now I'm into ETFs and Mutual funds; they are much safer. So with this project, I was thinking about doing the tech sector in the stock market and showing how interest rates affect stock movements 
-
 
 
 
