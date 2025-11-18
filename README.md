@@ -1,7 +1,20 @@
 # Stock Index Performance under economic conditions (Capstone)
 
+## Table of Contents
+* [Motivation](#motivation)
+* [Technologies Used](#technologies-used)
+* [Main Question](#MAIN-QUESTION)
+* [Questions](#questions)
+* [Python Code](#MAIN-Jupyter-Notebook-file)
+* [Functions](#ALL-FUNCTIONS-AND-ALL-USEAGES)
+* [Data Sources](#Data-Sources)
+
+
 ## Overview 
 This project touches on the stock market sectors, **tech**, **healthcare**, and **energy**, etc.. and show which one performs best under certain economic conditions.
+
+## Motivation
+For motivation, I love looking into the stock market and looking at and potentially predicting what may happen next. I haven't touched it in a while. I recently got back into it. I used to do a lot of option trades, but they got too risky, and you usually make some good money, but the problem is you might lose your stock. Now I'm into ETFs and Mutual funds; they are much safer. So with this project, I was thinking about doing the tech sector in the stock market and showing how interest rates affect stock movements 
 
 ### Technologies used
 - **Python** (data analysis and visualization)
@@ -9,6 +22,7 @@ This project touches on the stock market sectors, **tech**, **healthcare**, and 
 - **Matplotlib / Seaborn** (visualization)
 - **Jupyter Notebook** (IDE)
 - **POWERPOINT** (PRESENTATION)
+- **Git** (version control)
 
 # MAIN Jupyter Notebook file
 ## CleanVisualization.ipynb
@@ -16,9 +30,14 @@ This project touches on the stock market sectors, **tech**, **healthcare**, and 
 ## MAIN QUESTION:
 ## Which stock indexes (tech, healthcare, energy, etc.) perform best under certain economic conditions (inflation, recession, recovery, etc.) 
 
+## Questions
+1) How did COVID affect inflation, and where it recovered?
+2) What stocks are considered tech, healthcare, and energy?
+3) What is the difference between Indexes and Sectors?
+4) What is the October Effect?
 
-## Motivation
-For motivation, I love looking into the stock market and looking at and potentially predicting what may happen next. I haven't touched it in a while. I recently got back into it. I used to do a lot of option trades, but they got too risky, and you usually make some good money, but the problem is you might lose your stock. Now I'm into ETFs and Mutual funds; they are much safer. So with this project, I was thinking about doing the tech sector in the stock market and showing how interest rates affect stock movements 
+
+
 
 
 
