@@ -25,7 +25,7 @@ For motivation, I love looking into the stock market and looking at and potentia
 - **Git** (version control)
 
 # MAIN Jupyter Notebook file
-## CleanVisualization.ipynb
+``CleanVisualization.ipynb``
 
 ## MAIN QUESTION:
 ## Which stock indexes (tech, healthcare, energy, etc.) perform best under certain economic conditions (inflation, recession, recovery, etc.) 
