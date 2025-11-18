@@ -11,10 +11,10 @@
 
 
 ## Overview 
-This project touches on the stock market sectors, **tech**, **healthcare**, and **energy**, etc.. and show which one performs best under certain economic conditions.
+This project touches on the stock market indexes, **tech**, **healthcare**, and **energy**, etc.. and show which one performs best under certain economic conditions.
 
 ## Motivation
-For motivation, I love looking into the stock market and looking at and potentially predicting what may happen next. I haven't touched it in a while. I recently got back into it. I used to do a lot of option trades, but they got too risky, and you usually make some good money, but the problem is you might lose your stock. Now I'm into ETFs and Mutual funds; they are much safer. So with this project, I was thinking about doing the tech sector in the stock market and showing how interest rates affect stock movements 
+For motivation, I love looking into the stock market and looking at and potentially predicting what may happen next. I haven't touched it in a while. I recently got back into it. I used to do a lot of option trades, but they got too risky, and you usually make some good money, but the problem is you might lose your stock. Now I'm into ETFs and Mutual funds; they are much safer. So with this project, I was thinking about doing the tech indexes in the stock market and showing how interest rates affect stock movements 
 
 ### Technologies used
 - **Python** (data analysis and visualization)
